@@ -1,0 +1,301 @@
+EmployeeID,Department,Role,TenureYears,PerformanceRating,PromotionLast2Years,ManagerID,AttritionStatus,ExitType,Salary,Location
+E001,Sales,Sales Executive,4.0,5,No,M101,Exited,Involuntary,85935,Melbourne
+E002,Finance,Accountant,2.7,2,No,M104,Exited,Voluntary,82534,Brisbane
+E003,IT,Data Engineer,4.3,4,Yes,M102,Active,,135554,Sydney
+E004,Sales,Sales Executive,6.0,5,No,M101,Exited,Voluntary,88514,Melbourne
+E005,Sales,Sales Manager,2.5,3,No,M101,Active,,118391,Sydney
+E006,Sales,Sales Manager,2.5,4,Yes,M101,Active,,119544,Sydney
+E007,HR,HR Analyst,6.2,4,No,M103,Active,,96341,Melbourne
+E008,IT,Data Analyst,4.5,3,No,M102,Active,,100477,Melbourne
+E009,HR,HR Manager,2.1,3,No,M103,Active,,108469,Brisbane
+E010,IT,Data Engineer,4.1,4,No,M102,Active,,134425,Melbourne
+E011,HR,HR Analyst,2.1,3,No,M103,Exited,Voluntary,81686,Melbourne
+E012,IT,Data Engineer,2.1,5,No,M102,Active,,127782,Brisbane
+E013,Finance,Accountant,3.5,3,No,M104,Active,,95697,Brisbane
+E014,HR,HR Manager,0.5,5,No,M103,Active,,110093,Melbourne
+E015,Finance,Accountant,0.5,4,No,M104,Active,,82004,Brisbane
+E016,IT,Data Engineer,1.9,3,No,M102,Exited,Voluntary,124368,Brisbane
+E017,HR,HR Analyst,1.0,4,No,M103,Active,,84797,Sydney
+E018,HR,HR Analyst,3.6,3,No,M103,Active,,81853,Brisbane
+E019,HR,HR Analyst,1.2,4,No,M103,Active,,81489,Brisbane
+E020,IT,Data Analyst,0.5,3,No,M102,Active,,91189,Melbourne
+E021,HR,HR Manager,5.9,2,No,M103,Active,,121738,Melbourne
+E022,Sales,Sales Executive,2.5,5,Yes,M101,Exited,Voluntary,73633,Brisbane
+E023,IT,Data Analyst,3.1,4,Yes,M102,Active,,100945,Brisbane
+E024,Finance,Accountant,0.5,5,No,M104,Active,,84795,Brisbane
+E025,HR,HR Manager,1.9,5,No,M103,Active,,117877,Brisbane
+E026,Finance,Accountant,3.2,3,No,M104,Exited,Involuntary,94675,Melbourne
+E027,IT,Data Analyst,0.7,2,No,M102,Active,,84850,Melbourne
+E028,Sales,Sales Manager,3.8,3,No,M101,Active,,120353,Melbourne
+E029,IT,Data Engineer,1.8,5,No,M102,Active,,128144,Melbourne
+E030,Finance,Financial Analyst,2.4,3,No,M104,Exited,Voluntary,95139,Sydney
+E031,Finance,Accountant,1.8,4,No,M104,Active,,85012,Melbourne
+E032,Finance,Financial Analyst,6.7,5,No,M104,Exited,Voluntary,107396,Sydney
+E033,IT,Software Engineer,3.0,3,No,M102,Active,,106235,Sydney
+E034,Sales,Sales Executive,0.9,5,No,M101,Active,,67941,Melbourne
+E035,IT,Data Analyst,4.6,3,No,M102,Active,,101370,Melbourne
+E036,IT,Software Engineer,0.6,2,No,M102,Exited,Voluntary,103254,Sydney
+E037,Finance,Financial Analyst,3.4,3,No,M104,Active,,92158,Brisbane
+E038,Sales,Sales Manager,0.5,3,No,M101,Active,,110738,Brisbane
+E039,IT,Data Analyst,0.5,5,No,M102,Exited,Involuntary,96249,Melbourne
+E040,IT,Software Engineer,3.4,2,No,M102,Active,,108233,Brisbane
+E041,Sales,Sales Executive,4.5,4,Yes,M101,Active,,80772,Melbourne
+E042,HR,HR Analyst,3.3,3,No,M103,Active,,85815,Sydney
+E043,HR,HR Analyst,2.8,2,No,M103,Active,,86624,Melbourne
+E044,Sales,Sales Executive,2.4,4,No,M101,Active,,71327,Melbourne
+E045,HR,HR Manager,0.5,3,No,M103,Active,,107456,Brisbane
+E046,Sales,Sales Manager,1.6,5,No,M101,Active,,112000,Sydney
+E047,Sales,Sales Executive,2.1,5,No,M101,Exited,Involuntary,76917,Melbourne
+E048,HR,HR Manager,5.1,3,No,M103,Active,,117132,Melbourne
+E049,Finance,Financial Analyst,3.7,2,No,M104,Exited,Involuntary,94391,Melbourne
+E050,Finance,Financial Analyst,0.5,4,No,M104,Active,,86942,Brisbane
+E051,Sales,Sales Manager,3.6,4,No,M101,Active,,118850,Sydney
+E052,Sales,Sales Manager,2.2,4,No,M101,Active,,118773,Sydney
+E053,IT,Data Analyst,1.6,5,No,M102,Active,,92700,Sydney
+E054,Sales,Sales Executive,4.2,5,No,M101,Active,,81665,Sydney
+E055,IT,Data Engineer,5.1,2,No,M102,Active,,132011,Melbourne
+E056,IT,Software Engineer,4.9,3,No,M102,Active,,114428,Melbourne
+E057,Sales,Sales Executive,1.3,4,No,M101,Active,,68037,Sydney
+E058,HR,HR Manager,2.4,4,Yes,M103,Active,,110652,Melbourne
+E059,HR,HR Analyst,3.7,4,Yes,M103,Exited,Voluntary,89763,Brisbane
+E060,HR,HR Manager,5.0,4,Yes,M103,Active,,127446,Melbourne
+E061,HR,HR Analyst,2.0,4,No,M103,Exited,Voluntary,87821,Brisbane
+E062,IT,Software Engineer,2.6,3,No,M102,Active,,109209,Brisbane
+E063,HR,HR Analyst,0.8,4,No,M103,Active,,80467,Brisbane
+E064,Finance,Financial Analyst,0.6,3,No,M104,Active,,84885,Melbourne
+E065,Finance,Financial Analyst,4.6,4,Yes,M104,Active,,101730,Sydney
+E066,Sales,Sales Manager,5.7,4,Yes,M101,Active,,125379,Sydney
+E067,Finance,Financial Analyst,2.9,4,Yes,M104,Active,,94480,Brisbane
+E068,Sales,Sales Manager,5.0,4,Yes,M101,Active,,121848,Brisbane
+E069,HR,HR Analyst,3.7,5,No,M103,Exited,Voluntary,87293,Sydney
+E070,Finance,Accountant,1.7,4,No,M104,Active,,89647,Melbourne
+E071,IT,Data Engineer,3.7,4,Yes,M102,Active,,125846,Sydney
+E072,IT,Data Analyst,6.1,5,Yes,M102,Active,,112432,Melbourne
+E073,Sales,Sales Manager,2.9,3,No,M101,Active,,118402,Brisbane
+E074,HR,HR Manager,6.1,4,Yes,M103,Active,,130276,Sydney
+E075,IT,Data Engineer,0.5,5,No,M102,Active,,120550,Brisbane
+E076,HR,HR Manager,4.6,4,No,M103,Exited,Involuntary,121251,Sydney
+E077,HR,HR Analyst,3.2,3,No,M103,Active,,83103,Brisbane
+E078,IT,Data Analyst,2.4,3,No,M102,Active,,95833,Sydney
+E079,Sales,Sales Executive,3.2,5,No,M101,Active,,74920,Brisbane
+E080,Finance,Financial Analyst,0.5,2,No,M104,Exited,Voluntary,87365,Brisbane
+E081,IT,Software Engineer,2.6,3,No,M102,Active,,104275,Sydney
+E082,HR,HR Manager,3.7,4,Yes,M103,Active,,122851,Melbourne
+E083,Finance,Accountant,6.0,2,No,M104,Exited,Voluntary,94977,Melbourne
+E084,HR,HR Manager,2.0,3,No,M103,Active,,112529,Sydney
+E085,HR,HR Manager,1.4,3,No,M103,Exited,Involuntary,114037,Melbourne
+E086,HR,HR Analyst,2.0,4,No,M103,Active,,79659,Melbourne
+E087,IT,Data Analyst,4.8,5,Yes,M102,Active,,107158,Brisbane
+E088,Sales,Sales Executive,3.7,4,No,M101,Active,,84026,Brisbane
+E089,Sales,Sales Executive,1.9,5,No,M101,Active,,71120,Sydney
+E090,Finance,Financial Analyst,4.0,5,No,M104,Active,,100978,Melbourne
+E091,HR,HR Analyst,3.2,4,Yes,M103,Exited,Voluntary,88671,Melbourne
+E092,HR,HR Analyst,4.9,5,Yes,M103,Active,,95634,Brisbane
+E093,Finance,Accountant,1.6,3,No,M104,Active,,85225,Brisbane
+E094,Finance,Financial Analyst,2.3,3,No,M104,Active,,92297,Sydney
+E095,IT,Data Analyst,2.2,3,No,M102,Active,,95213,Brisbane
+E096,Finance,Financial Analyst,0.5,2,No,M104,Active,,83479,Sydney
+E097,IT,Software Engineer,3.6,4,No,M102,Active,,113326,Brisbane
+E098,Sales,Sales Executive,3.5,3,No,M101,Active,,79504,Brisbane
+E099,IT,Data Engineer,3.0,3,No,M102,Active,,127342,Melbourne
+E100,Sales,Sales Manager,2.5,4,Yes,M101,Active,,120028,Sydney
+E101,Finance,Financial Analyst,0.5,3,No,M104,Active,,87919,Sydney
+E102,Finance,Financial Analyst,2.2,3,No,M104,Active,,90755,Sydney
+E103,Sales,Sales Executive,2.3,3,No,M101,Active,,72430,Brisbane
+E104,HR,HR Analyst,1.4,5,No,M103,Active,,85112,Melbourne
+E105,HR,HR Analyst,2.7,4,No,M103,Exited,Involuntary,85886,Brisbane
+E106,IT,Data Engineer,3.8,5,Yes,M102,Active,,135805,Sydney
+E107,Finance,Financial Analyst,6.8,3,No,M104,Active,,102241,Sydney
+E108,Finance,Accountant,3.3,5,Yes,M104,Exited,Voluntary,90778,Melbourne
+E109,IT,Data Engineer,3.5,5,No,M102,Exited,Voluntary,132318,Brisbane
+E110,IT,Data Engineer,2.9,3,No,M102,Active,,124571,Brisbane
+E111,Finance,Financial Analyst,0.5,4,No,M104,Exited,Voluntary,86125,Melbourne
+E112,IT,Software Engineer,2.9,4,No,M102,Active,,107929,Melbourne
+E113,Sales,Sales Manager,3.1,4,Yes,M101,Active,,116092,Sydney
+E114,HR,HR Manager,7.9,2,No,M103,Exited,Involuntary,132363,Brisbane
+E115,IT,Software Engineer,2.6,2,No,M102,Exited,Involuntary,106152,Melbourne
+E116,Sales,Sales Executive,3.6,3,No,M101,Active,,81125,Sydney
+E117,Finance,Accountant,2.9,3,No,M104,Active,,91294,Sydney
+E118,Finance,Financial Analyst,0.7,2,No,M104,Exited,Voluntary,86380,Brisbane
+E119,HR,HR Analyst,5.3,2,No,M103,Active,,94324,Brisbane
+E120,Sales,Sales Manager,4.5,4,Yes,M101,Active,,125002,Brisbane
+E121,Finance,Financial Analyst,4.6,3,No,M104,Active,,102856,Melbourne
+E122,Finance,Financial Analyst,1.2,3,No,M104,Active,,86313,Melbourne
+E123,HR,HR Manager,5.8,4,No,M103,Active,,129412,Melbourne
+E124,Finance,Accountant,0.5,3,No,M104,Active,,84122,Brisbane
+E125,Sales,Sales Manager,4.2,4,No,M101,Active,,123767,Brisbane
+E126,Finance,Accountant,7.4,3,No,M104,Active,,102919,Sydney
+E127,Finance,Accountant,1.0,2,No,M104,Active,,80920,Brisbane
+E128,IT,Software Engineer,1.9,4,No,M102,Active,,105227,Melbourne
+E129,Sales,Sales Manager,3.2,5,Yes,M101,Active,,119381,Brisbane
+E130,HR,HR Manager,2.0,5,No,M103,Active,,114993,Sydney
+E131,IT,Software Engineer,0.5,2,No,M102,Exited,Voluntary,97736,Melbourne
+E132,HR,HR Manager,3.1,3,No,M103,Active,,114677,Melbourne
+E133,HR,HR Manager,0.9,5,No,M103,Active,,115722,Melbourne
+E134,Finance,Financial Analyst,3.9,3,No,M104,Active,,101603,Sydney
+E135,Finance,Financial Analyst,1.2,5,No,M104,Active,,92512,Brisbane
+E136,Finance,Accountant,6.1,5,Yes,M104,Active,,106049,Brisbane
+E137,Finance,Financial Analyst,1.4,5,No,M104,Active,,91692,Sydney
+E138,Sales,Sales Executive,2.4,4,Yes,M101,Active,,77413,Melbourne
+E139,Finance,Accountant,4.6,4,Yes,M104,Active,,94329,Melbourne
+E140,Finance,Financial Analyst,0.5,3,No,M104,Active,,83815,Sydney
+E141,Finance,Financial Analyst,3.5,4,Yes,M104,Active,,102364,Melbourne
+E142,Sales,Sales Executive,5.6,5,Yes,M101,Active,,83280,Sydney
+E143,Sales,Sales Executive,0.5,4,No,M101,Active,,64974,Melbourne
+E144,HR,HR Analyst,3.4,3,No,M103,Active,,83585,Melbourne
+E145,Finance,Accountant,3.5,3,No,M104,Exited,Voluntary,90445,Sydney
+E146,IT,Data Analyst,4.6,3,No,M102,Active,,98983,Brisbane
+E147,Sales,Sales Manager,0.5,5,No,M101,Active,,109088,Melbourne
+E148,Finance,Financial Analyst,0.5,5,No,M104,Active,,93451,Brisbane
+E149,HR,HR Manager,4.0,5,No,M103,Exited,Voluntary,120886,Sydney
+E150,HR,HR Manager,3.6,5,No,M103,Active,,122284,Sydney
+E151,Sales,Sales Executive,3.5,5,Yes,M101,Active,,80189,Melbourne
+E152,HR,HR Analyst,3.7,4,Yes,M103,Active,,86340,Brisbane
+E153,Sales,Sales Executive,1.6,4,No,M101,Active,,77295,Sydney
+E154,IT,Data Analyst,3.5,5,No,M102,Active,,98789,Melbourne
+E155,HR,HR Manager,3.6,5,No,M103,Active,,123694,Sydney
+E156,HR,HR Analyst,1.6,3,No,M103,Exited,Voluntary,79496,Brisbane
+E157,Finance,Financial Analyst,6.7,2,No,M104,Exited,Involuntary,101124,Sydney
+E158,HR,HR Manager,3.9,4,Yes,M103,Active,,116475,Brisbane
+E159,IT,Software Engineer,0.6,2,No,M102,Active,,104998,Sydney
+E160,IT,Data Engineer,4.3,2,No,M102,Active,,126851,Brisbane
+E161,Finance,Accountant,1.1,3,No,M104,Active,,84286,Sydney
+E162,Sales,Sales Executive,4.6,4,Yes,M101,Active,,82878,Brisbane
+E163,Finance,Accountant,5.3,5,Yes,M104,Active,,102586,Sydney
+E164,Sales,Sales Manager,1.4,4,No,M101,Active,,111068,Sydney
+E165,Sales,Sales Manager,4.9,4,Yes,M101,Active,,124223,Sydney
+E166,IT,Data Analyst,3.8,5,Yes,M102,Exited,Involuntary,106183,Melbourne
+E167,Sales,Sales Manager,4.6,4,No,M101,Active,,117924,Brisbane
+E168,IT,Data Engineer,6.8,3,No,M102,Active,,136783,Melbourne
+E169,Sales,Sales Manager,2.5,5,No,M101,Exited,Involuntary,115358,Melbourne
+E170,Sales,Sales Executive,1.5,3,No,M101,Active,,69398,Brisbane
+E171,HR,HR Analyst,1.2,3,No,M103,Exited,Voluntary,83219,Melbourne
+E172,Sales,Sales Manager,1.4,4,No,M101,Active,,116926,Melbourne
+E173,Finance,Accountant,2.8,5,No,M104,Active,,96943,Sydney
+E174,Finance,Accountant,3.7,2,No,M104,Exited,Voluntary,86868,Sydney
+E175,Finance,Accountant,3.6,5,No,M104,Exited,Involuntary,100390,Brisbane
+E176,HR,HR Manager,4.7,5,Yes,M103,Active,,129019,Sydney
+E177,Sales,Sales Executive,3.0,5,Yes,M101,Active,,77522,Sydney
+E178,Finance,Accountant,5.9,3,No,M104,Active,,100232,Sydney
+E179,Sales,Sales Manager,2.5,4,Yes,M101,Active,,113000,Brisbane
+E180,Finance,Accountant,8.4,2,No,M104,Exited,Voluntary,105305,Melbourne
+E181,Sales,Sales Manager,4.3,5,Yes,M101,Active,,124829,Brisbane
+E182,Sales,Sales Manager,1.3,5,No,M101,Active,,118368,Brisbane
+E183,IT,Data Analyst,0.9,4,No,M102,Active,,87473,Sydney
+E184,HR,HR Analyst,4.0,4,Yes,M103,Active,,94190,Brisbane
+E185,Sales,Sales Manager,2.6,3,No,M101,Active,,113862,Sydney
+E186,HR,HR Analyst,4.4,3,No,M103,Active,,90766,Melbourne
+E187,IT,Data Engineer,3.9,4,No,M102,Active,,128224,Sydney
+E188,Finance,Financial Analyst,2.9,3,No,M104,Active,,95014,Brisbane
+E189,Sales,Sales Executive,1.3,3,No,M101,Active,,65715,Brisbane
+E190,Sales,Sales Manager,0.5,4,No,M101,Active,,114446,Sydney
+E191,Finance,Financial Analyst,2.1,3,No,M104,Active,,92955,Sydney
+E192,Sales,Sales Manager,4.7,5,Yes,M101,Active,,124153,Melbourne
+E193,IT,Software Engineer,3.4,5,No,M102,Exited,Voluntary,112448,Sydney
+E194,HR,HR Manager,0.5,3,No,M103,Active,,109555,Melbourne
+E195,IT,Software Engineer,3.3,4,No,M102,Active,,113702,Melbourne
+E196,Finance,Accountant,3.8,3,No,M104,Active,,88675,Sydney
+E197,Finance,Financial Analyst,1.2,4,No,M104,Active,,88487,Sydney
+E198,Sales,Sales Manager,3.3,3,No,M101,Active,,118438,Brisbane
+E199,HR,HR Analyst,3.1,3,No,M103,Active,,87438,Brisbane
+E200,Finance,Accountant,0.7,3,No,M104,Active,,83662,Melbourne
+E201,HR,HR Analyst,3.7,2,No,M103,Active,,88793,Brisbane
+E202,IT,Software Engineer,4.1,3,No,M102,Active,,110719,Melbourne
+E203,Sales,Sales Executive,5.2,4,No,M101,Active,,79834,Melbourne
+E204,Finance,Financial Analyst,5.1,4,Yes,M104,Active,,107548,Brisbane
+E205,HR,HR Manager,0.5,3,No,M103,Exited,Voluntary,107461,Sydney
+E206,Sales,Sales Manager,1.1,4,No,M101,Active,,113704,Melbourne
+E207,Sales,Sales Manager,4.0,5,No,M101,Active,,118479,Brisbane
+E208,Finance,Financial Analyst,4.0,4,Yes,M104,Active,,95672,Sydney
+E209,IT,Software Engineer,4.0,4,Yes,M102,Active,,117381,Melbourne
+E210,HR,HR Analyst,10.0,4,No,M103,Active,,110172,Sydney
+E211,IT,Software Engineer,4.1,3,No,M102,Active,,114997,Sydney
+E212,Sales,Sales Manager,5.3,3,No,M101,Exited,Voluntary,121555,Sydney
+E213,IT,Software Engineer,4.9,2,No,M102,Active,,114431,Sydney
+E214,Finance,Accountant,4.3,4,Yes,M104,Active,,97071,Brisbane
+E215,HR,HR Analyst,2.4,4,Yes,M103,Active,,88824,Melbourne
+E216,Finance,Financial Analyst,4.5,2,No,M104,Exited,Voluntary,98098,Sydney
+E217,IT,Data Analyst,1.5,5,No,M102,Active,,94346,Melbourne
+E218,Sales,Sales Manager,2.5,5,Yes,M101,Active,,115027,Melbourne
+E219,IT,Data Engineer,2.0,4,No,M102,Active,,121712,Brisbane
+E220,Finance,Accountant,3.2,3,No,M104,Active,,89491,Sydney
+E221,HR,HR Manager,7.6,3,No,M103,Active,,131484,Melbourne
+E222,HR,HR Manager,0.5,3,No,M103,Active,,108756,Brisbane
+E223,Finance,Accountant,4.4,5,Yes,M104,Active,,97296,Melbourne
+E224,Finance,Financial Analyst,0.5,4,No,M104,Active,,92952,Melbourne
+E225,HR,HR Analyst,2.1,4,No,M103,Active,,81714,Sydney
+E226,Sales,Sales Executive,5.2,5,Yes,M101,Active,,87397,Melbourne
+E227,Finance,Financial Analyst,3.1,3,No,M104,Active,,96442,Melbourne
+E228,Sales,Sales Manager,0.8,5,No,M101,Active,,112893,Melbourne
+E229,IT,Data Analyst,1.6,3,No,M102,Active,,88073,Brisbane
+E230,Finance,Financial Analyst,4.4,4,Yes,M104,Exited,Involuntary,98649,Brisbane
+E231,Finance,Accountant,1.5,4,No,M104,Active,,84496,Melbourne
+E232,IT,Software Engineer,3.4,4,Yes,M102,Exited,Voluntary,116389,Brisbane
+E233,Sales,Sales Executive,3.1,5,No,M101,Exited,Voluntary,83649,Sydney
+E234,IT,Data Engineer,1.7,4,No,M102,Active,,124008,Melbourne
+E235,Sales,Sales Manager,7.3,5,No,M101,Exited,Voluntary,127166,Sydney
+E236,Sales,Sales Manager,4.3,4,Yes,M101,Active,,125433,Brisbane
+E237,HR,HR Analyst,0.5,2,No,M103,Exited,Voluntary,73368,Brisbane
+E238,Finance,Financial Analyst,3.4,4,Yes,M104,Exited,Voluntary,100698,Melbourne
+E239,HR,HR Analyst,1.7,2,No,M103,Exited,Involuntary,79180,Brisbane
+E240,Finance,Financial Analyst,4.7,3,No,M104,Active,,98231,Sydney
+E241,HR,HR Analyst,1.4,5,No,M103,Active,,81239,Sydney
+E242,Finance,Financial Analyst,2.8,4,Yes,M104,Active,,94460,Sydney
+E243,Finance,Financial Analyst,4.0,5,Yes,M104,Active,,103955,Melbourne
+E244,Finance,Accountant,4.7,4,No,M104,Exited,Voluntary,97121,Sydney
+E245,Finance,Accountant,0.6,4,No,M104,Active,,80493,Brisbane
+E246,HR,HR Manager,2.3,3,No,M103,Active,,108839,Melbourne
+E247,Finance,Financial Analyst,2.1,4,Yes,M104,Active,,89810,Melbourne
+E248,Finance,Accountant,1.7,3,No,M104,Active,,87101,Sydney
+E249,Finance,Accountant,6.5,4,Yes,M104,Active,,103595,Sydney
+E250,Sales,Sales Executive,3.8,4,No,M101,Active,,78489,Melbourne
+E251,Sales,Sales Executive,0.5,4,No,M101,Active,,73702,Melbourne
+E252,HR,HR Manager,4.8,4,No,M103,Active,,125447,Melbourne
+E253,Sales,Sales Executive,7.2,5,Yes,M101,Active,,93892,Melbourne
+E254,HR,HR Manager,5.1,4,Yes,M103,Active,,123214,Melbourne
+E255,IT,Software Engineer,0.5,4,No,M102,Active,,102792,Melbourne
+E256,IT,Software Engineer,2.0,2,No,M102,Exited,Voluntary,109038,Melbourne
+E257,Sales,Sales Executive,5.5,4,Yes,M101,Active,,88112,Sydney
+E258,Finance,Accountant,1.6,3,No,M104,Active,,82015,Sydney
+E259,Finance,Financial Analyst,3.9,3,No,M104,Active,,101732,Brisbane
+E260,IT,Data Analyst,4.5,3,No,M102,Active,,95407,Melbourne
+E261,IT,Software Engineer,1.1,2,No,M102,Exited,Voluntary,102969,Brisbane
+E262,HR,HR Analyst,2.9,3,No,M103,Active,,88724,Sydney
+E263,IT,Data Engineer,0.5,3,No,M102,Active,,120734,Brisbane
+E264,IT,Data Engineer,1.0,5,No,M102,Active,,127914,Sydney
+E265,Sales,Sales Executive,2.5,3,No,M101,Active,,77949,Sydney
+E266,IT,Data Engineer,0.5,3,No,M102,Active,,120659,Brisbane
+E267,HR,HR Manager,6.3,3,No,M103,Active,,126553,Sydney
+E268,Finance,Accountant,0.5,4,No,M104,Active,,86309,Sydney
+E269,Finance,Accountant,2.1,3,No,M104,Active,,87531,Brisbane
+E270,HR,HR Manager,3.3,3,No,M103,Active,,120102,Melbourne
+E271,HR,HR Analyst,5.9,3,No,M103,Active,,92761,Melbourne
+E272,Sales,Sales Executive,0.5,4,No,M101,Active,,71350,Melbourne
+E273,IT,Software Engineer,5.3,5,Yes,M102,Active,,118510,Sydney
+E274,Finance,Financial Analyst,3.0,5,Yes,M104,Exited,Voluntary,101491,Melbourne
+E275,IT,Data Engineer,1.0,3,No,M102,Exited,Voluntary,121710,Sydney
+E276,Sales,Sales Executive,3.9,4,Yes,M101,Active,,81306,Sydney
+E277,Sales,Sales Manager,3.4,3,No,M101,Active,,117139,Brisbane
+E278,HR,HR Analyst,1.8,3,No,M103,Active,,85408,Sydney
+E279,Sales,Sales Executive,3.1,5,No,M101,Active,,79855,Brisbane
+E280,HR,HR Analyst,2.2,3,No,M103,Active,,85793,Melbourne
+E281,Sales,Sales Executive,3.2,3,No,M101,Active,,78361,Brisbane
+E282,Finance,Accountant,4.3,4,Yes,M104,Active,,96118,Melbourne
+E283,Finance,Financial Analyst,6.2,4,Yes,M104,Active,,109625,Brisbane
+E284,HR,HR Manager,0.5,5,No,M103,Active,,108295,Sydney
+E285,HR,HR Analyst,7.3,4,No,M103,Active,,104377,Brisbane
+E286,IT,Data Engineer,0.5,2,No,M102,Exited,Voluntary,116729,Melbourne
+E287,IT,Data Analyst,2.7,4,Yes,M102,Active,,98325,Sydney
+E288,Finance,Accountant,4.2,3,No,M104,Active,,96821,Brisbane
+E289,Finance,Accountant,3.6,4,Yes,M104,Active,,96637,Brisbane
+E290,Finance,Financial Analyst,1.8,5,No,M104,Active,,99134,Sydney
+E291,HR,HR Manager,2.6,4,No,M103,Active,,119943,Sydney
+E292,IT,Software Engineer,2.0,4,No,M102,Active,,112011,Sydney
+E293,Finance,Financial Analyst,1.8,4,No,M104,Active,,92880,Sydney
+E294,Sales,Sales Manager,4.7,5,No,M101,Exited,Voluntary,121499,Sydney
+E295,Sales,Sales Manager,3.7,5,No,M101,Active,,120301,Brisbane
+E296,Finance,Accountant,1.6,3,No,M104,Active,,90008,Brisbane
+E297,HR,HR Analyst,4.8,3,No,M103,Active,,89320,Melbourne
+E298,Sales,Sales Executive,3.6,5,No,M101,Active,,83539,Melbourne
+E299,IT,Data Analyst,4.6,5,Yes,M102,Active,,106593,Sydney
+E300,IT,Software Engineer,4.3,3,No,M102,Active,,110365,Brisbane

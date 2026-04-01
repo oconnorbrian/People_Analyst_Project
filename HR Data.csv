@@ -1,0 +1,301 @@
+EmployeeID,HireDate,LastReviewDate,EngagementScore,TrainingHours,AbsenceDays,Department,Role,TenureYears,PerformanceRating,PromotionLast2Years,ManagerID,AttritionStatus,ExitType,Salary,Location,TenureBand
+E001,2022-03-04,2023-04-16,41,35,7,Sales,Sales Executive,4.0,5,No,M101,Exited,Involuntary,85935,Melbourne,2-5
+E002,2017-07-03,2018-10-11,87,13,17,Finance,Accountant,2.7,2,No,M104,Exited,Voluntary,82534,Brisbane,2-5
+E003,2015-12-23,2019-10-12,67,4,0,IT,Data Engineer,4.3,4,Yes,M102,Active,N/A,135554,Sydney,2-5
+E004,2016-01-19,2017-10-07,54,64,19,Sales,Sales Executive,6.0,5,No,M101,Exited,Voluntary,88514,Melbourne,5-10
+E005,2015-04-19,2018-12-08,52,69,13,Sales,Sales Manager,2.5,3,No,M101,Active,N/A,118391,Sydney,2-5
+E006,2017-06-21,2020-06-24,77,35,0,Sales,Sales Manager,2.5,4,Yes,M101,Active,N/A,119544,Sydney,2-5
+E007,2016-10-15,2019-08-26,61,35,4,HR,HR Analyst,6.2,4,No,M103,Active,N/A,96341,Melbourne,5-10
+E008,2017-05-31,2019-10-17,46,11,12,IT,Data Analyst,4.5,3,No,M102,Active,N/A,100477,Melbourne,2-5
+E009,2016-02-01,2018-08-04,94,44,19,HR,HR Manager,2.1,3,No,M103,Active,N/A,108469,Brisbane,2-5
+E010,2017-12-19,2018-09-13,86,58,17,IT,Data Engineer,4.1,4,No,M102,Active,N/A,134425,Melbourne,2-5
+E011,2016-05-26,2019-01-06,45,70,9,HR,HR Analyst,2.1,3,No,M103,Exited,Voluntary,81686,Melbourne,2-5
+E012,2022-01-18,2026-01-03,96,46,18,IT,Data Engineer,2.1,5,No,M102,Active,N/A,127782,Brisbane,2-5
+E013,2017-02-26,2018-01-14,42,29,9,Finance,Accountant,3.5,3,No,M104,Active,N/A,95697,Brisbane,2-5
+E014,2015-11-23,2017-09-09,95,12,12,HR,HR Manager,0.5,5,No,M103,Active,N/A,110093,Melbourne,0-2
+E015,2018-02-12,2021-02-24,80,46,5,Finance,Accountant,0.5,4,No,M104,Active,N/A,82004,Brisbane,0-2
+E016,2019-02-25,2021-08-20,53,34,20,IT,Data Engineer,1.9,3,No,M102,Exited,Voluntary,124368,Brisbane,0-2
+E017,2015-10-20,2019-09-16,80,21,17,HR,HR Analyst,1.0,4,No,M103,Active,N/A,84797,Sydney,0-2
+E018,2023-03-06,2025-01-15,50,59,12,HR,HR Analyst,3.6,3,No,M103,Active,N/A,81853,Brisbane,2-5
+E019,2018-01-10,2022-02-08,84,71,7,HR,HR Analyst,1.2,4,No,M103,Active,N/A,81489,Brisbane,0-2
+E020,2022-09-05,2024-12-27,93,7,7,IT,Data Analyst,0.5,3,No,M102,Active,N/A,91189,Melbourne,0-2
+E021,2015-05-12,2017-08-15,65,34,2,HR,HR Manager,5.9,2,No,M103,Active,N/A,121738,Melbourne,5-10
+E022,2017-05-14,2021-01-14,96,40,6,Sales,Sales Executive,2.5,5,Yes,M101,Exited,Voluntary,73633,Brisbane,2-5
+E023,2022-05-08,2025-08-22,65,58,4,IT,Data Analyst,3.1,4,Yes,M102,Active,N/A,100945,Brisbane,2-5
+E024,2017-12-20,2019-03-30,55,71,17,Finance,Accountant,0.5,5,No,M104,Active,N/A,84795,Brisbane,0-2
+E025,2017-12-12,2021-09-19,67,74,12,HR,HR Manager,1.9,5,No,M103,Active,N/A,117877,Brisbane,0-2
+E026,2019-01-22,2020-10-12,48,65,15,Finance,Accountant,3.2,3,No,M104,Exited,Involuntary,94675,Melbourne,2-5
+E027,2016-01-08,2016-10-10,95,14,4,IT,Data Analyst,0.7,2,No,M102,Active,N/A,84850,Melbourne,0-2
+E028,2022-01-14,2023-06-05,90,54,19,Sales,Sales Manager,3.8,3,No,M101,Active,N/A,120353,Melbourne,2-5
+E029,2015-09-18,2018-05-13,64,76,14,IT,Data Engineer,1.8,5,No,M102,Active,N/A,128144,Melbourne,0-2
+E030,2020-12-07,2022-11-01,75,1,3,Finance,Financial Analyst,2.4,3,No,M104,Exited,Voluntary,95139,Sydney,2-5
+E031,2022-08-24,2026-02-23,88,34,20,Finance,Accountant,1.8,4,No,M104,Active,N/A,85012,Melbourne,0-2
+E032,2018-10-25,2019-12-07,58,55,5,Finance,Financial Analyst,6.7,5,No,M104,Exited,Voluntary,107396,Sydney,5-10
+E033,2020-02-02,2020-08-06,86,33,16,IT,Software Engineer,3.0,3,No,M102,Active,N/A,106235,Sydney,2-5
+E034,2017-01-01,2020-05-04,98,13,20,Sales,Sales Executive,0.9,5,No,M101,Active,N/A,67941,Melbourne,0-2
+E035,2018-05-07,2022-06-03,72,77,6,IT,Data Analyst,4.6,3,No,M102,Active,N/A,101370,Melbourne,2-5
+E036,2016-09-18,2019-04-21,88,20,17,IT,Software Engineer,0.6,2,No,M102,Exited,Voluntary,103254,Sydney,0-2
+E037,2020-12-12,2021-06-11,78,41,15,Finance,Financial Analyst,3.4,3,No,M104,Active,N/A,92158,Brisbane,2-5
+E038,2015-03-21,2016-05-03,99,46,9,Sales,Sales Manager,0.5,3,No,M101,Active,N/A,110738,Brisbane,0-2
+E039,2017-09-07,2018-07-02,55,72,2,IT,Data Analyst,0.5,5,No,M102,Exited,Involuntary,96249,Melbourne,0-2
+E040,2015-12-17,2019-03-06,92,8,17,IT,Software Engineer,3.4,2,No,M102,Active,N/A,108233,Brisbane,2-5
+E041,2016-05-30,2017-08-15,82,60,17,Sales,Sales Executive,4.5,4,Yes,M101,Active,N/A,80772,Melbourne,2-5
+E042,2016-11-07,2018-10-30,73,77,13,HR,HR Analyst,3.3,3,No,M103,Active,N/A,85815,Sydney,2-5
+E043,2017-05-17,2020-11-21,88,25,9,HR,HR Analyst,2.8,2,No,M103,Active,N/A,86624,Melbourne,2-5
+E044,2019-06-23,2022-01-22,68,66,14,Sales,Sales Executive,2.4,4,No,M101,Active,N/A,71327,Melbourne,2-5
+E045,2016-05-10,2018-03-28,54,8,10,HR,HR Manager,0.5,3,No,M103,Active,N/A,107456,Brisbane,0-2
+E046,2015-03-28,2019-01-10,75,29,18,Sales,Sales Manager,1.6,5,No,M101,Active,N/A,112000,Sydney,0-2
+E047,2017-06-21,2018-01-01,44,80,1,Sales,Sales Executive,2.1,5,No,M101,Exited,Involuntary,76917,Melbourne,2-5
+E048,2017-07-26,2018-06-09,97,4,10,HR,HR Manager,5.1,3,No,M103,Active,N/A,117132,Melbourne,5-10
+E049,2015-10-18,2019-03-03,55,35,15,Finance,Financial Analyst,3.7,2,No,M104,Exited,Involuntary,94391,Melbourne,2-5
+E050,2017-05-27,2020-12-01,48,73,18,Finance,Financial Analyst,0.5,4,No,M104,Active,N/A,86942,Brisbane,0-2
+E051,2020-04-20,2022-02-26,90,60,13,Sales,Sales Manager,3.6,4,No,M101,Active,N/A,118850,Sydney,2-5
+E052,2017-02-18,2018-02-26,46,55,11,Sales,Sales Manager,2.2,4,No,M101,Active,N/A,118773,Sydney,2-5
+E053,2019-10-01,2022-07-18,69,6,20,IT,Data Analyst,1.6,5,No,M102,Active,N/A,92700,Sydney,0-2
+E054,2022-03-31,2023-04-16,43,51,10,Sales,Sales Executive,4.2,5,No,M101,Active,N/A,81665,Sydney,2-5
+E055,2016-03-23,2018-02-10,52,24,17,IT,Data Engineer,5.1,2,No,M102,Active,N/A,132011,Melbourne,5-10
+E056,2020-01-12,2021-04-23,67,23,8,IT,Software Engineer,4.9,3,No,M102,Active,N/A,114428,Melbourne,2-5
+E057,2020-03-09,2022-01-29,95,9,14,Sales,Sales Executive,1.3,4,No,M101,Active,N/A,68037,Sydney,0-2
+E058,2021-03-04,2022-03-19,43,69,0,HR,HR Manager,2.4,4,Yes,M103,Active,N/A,110652,Melbourne,2-5
+E059,2016-01-18,2017-11-12,50,52,15,HR,HR Analyst,3.7,4,Yes,M103,Exited,Voluntary,89763,Brisbane,2-5
+E060,2020-05-25,2022-02-01,95,51,1,HR,HR Manager,5.0,4,Yes,M103,Active,N/A,127446,Melbourne,2-5
+E061,2016-11-05,2019-06-19,40,49,8,HR,HR Analyst,2.0,4,No,M103,Exited,Voluntary,87821,Brisbane,0-2
+E062,2020-02-07,2022-03-12,67,71,15,IT,Software Engineer,2.6,3,No,M102,Active,N/A,109209,Brisbane,2-5
+E063,2016-09-26,2018-04-17,58,27,1,HR,HR Analyst,0.8,4,No,M103,Active,N/A,80467,Brisbane,0-2
+E064,2021-06-30,2025-01-10,43,40,1,Finance,Financial Analyst,0.6,3,No,M104,Active,N/A,84885,Melbourne,0-2
+E065,2015-07-25,2019-05-01,70,64,16,Finance,Financial Analyst,4.6,4,Yes,M104,Active,N/A,101730,Sydney,2-5
+E066,2016-10-06,2017-07-29,72,10,5,Sales,Sales Manager,5.7,4,Yes,M101,Active,N/A,125379,Sydney,5-10
+E067,2015-10-08,2019-08-06,44,30,12,Finance,Financial Analyst,2.9,4,Yes,M104,Active,N/A,94480,Brisbane,2-5
+E068,2016-05-06,2020-01-12,55,74,19,Sales,Sales Manager,5.0,4,Yes,M101,Active,N/A,121848,Brisbane,2-5
+E069,2015-06-12,2019-05-30,45,53,18,HR,HR Analyst,3.7,5,No,M103,Exited,Voluntary,87293,Sydney,2-5
+E070,2021-05-04,2024-10-05,60,33,6,Finance,Accountant,1.7,4,No,M104,Active,N/A,89647,Melbourne,0-2
+E071,2022-07-06,2024-10-06,55,33,12,IT,Data Engineer,3.7,4,Yes,M102,Active,N/A,125846,Sydney,2-5
+E072,2016-06-20,2018-08-23,69,40,2,IT,Data Analyst,6.1,5,Yes,M102,Active,N/A,112432,Melbourne,5-10
+E073,2015-02-08,2018-03-02,79,72,3,Sales,Sales Manager,2.9,3,No,M101,Active,N/A,118402,Brisbane,2-5
+E074,2015-10-28,2019-05-01,53,64,8,HR,HR Manager,6.1,4,Yes,M103,Active,N/A,130276,Sydney,5-10
+E075,2016-06-26,2018-12-07,96,8,7,IT,Data Engineer,0.5,5,No,M102,Active,N/A,120550,Brisbane,0-2
+E076,2019-02-22,2021-03-26,50,56,17,HR,HR Manager,4.6,4,No,M103,Exited,Involuntary,121251,Sydney,2-5
+E077,2022-11-21,2025-01-28,79,67,0,HR,HR Analyst,3.2,3,No,M103,Active,N/A,83103,Brisbane,2-5
+E078,2022-06-28,2026-02-02,59,13,4,IT,Data Analyst,2.4,3,No,M102,Active,N/A,95833,Sydney,2-5
+E079,2017-12-19,2019-02-08,96,13,17,Sales,Sales Executive,3.2,5,No,M101,Active,N/A,74920,Brisbane,2-5
+E080,2016-09-28,2018-10-05,58,77,6,Finance,Financial Analyst,0.5,2,No,M104,Exited,Voluntary,87365,Brisbane,0-2
+E081,2023-01-18,2025-06-18,53,33,16,IT,Software Engineer,2.6,3,No,M102,Active,N/A,104275,Sydney,2-5
+E082,2020-06-24,2022-05-19,97,6,2,HR,HR Manager,3.7,4,Yes,M103,Active,N/A,122851,Melbourne,2-5
+E083,2022-02-11,2024-12-24,93,35,1,Finance,Accountant,6.0,2,No,M104,Exited,Voluntary,94977,Melbourne,5-10
+E084,2015-01-15,2017-05-27,89,16,20,HR,HR Manager,2.0,3,No,M103,Active,N/A,112529,Sydney,0-2
+E085,2017-12-08,2019-05-02,87,56,17,HR,HR Manager,1.4,3,No,M103,Exited,Involuntary,114037,Melbourne,0-2
+E086,2022-11-30,2025-10-20,75,1,3,HR,HR Analyst,2.0,4,No,M103,Active,N/A,79659,Melbourne,0-2
+E087,2015-11-05,2017-03-04,74,4,11,IT,Data Analyst,4.8,5,Yes,M102,Active,N/A,107158,Brisbane,2-5
+E088,2021-07-13,2025-02-13,49,55,4,Sales,Sales Executive,3.7,4,No,M101,Active,N/A,84026,Brisbane,2-5
+E089,2015-06-21,2017-09-09,63,5,11,Sales,Sales Executive,1.9,5,No,M101,Active,N/A,71120,Sydney,0-2
+E090,2017-05-10,2019-04-01,82,13,11,Finance,Financial Analyst,4.0,5,No,M104,Active,N/A,100978,Melbourne,2-5
+E091,2021-04-12,2024-01-19,79,19,7,HR,HR Analyst,3.2,4,Yes,M103,Exited,Voluntary,88671,Melbourne,2-5
+E092,2016-10-27,2018-04-22,96,52,0,HR,HR Analyst,4.9,5,Yes,M103,Active,N/A,95634,Brisbane,2-5
+E093,2017-01-04,2019-05-14,90,52,7,Finance,Accountant,1.6,3,No,M104,Active,N/A,85225,Brisbane,0-2
+E094,2017-12-28,2019-05-18,90,13,12,Finance,Financial Analyst,2.3,3,No,M104,Active,N/A,92297,Sydney,2-5
+E095,2015-06-08,2018-07-25,54,25,14,IT,Data Analyst,2.2,3,No,M102,Active,N/A,95213,Brisbane,2-5
+E096,2018-12-03,2021-02-15,92,29,7,Finance,Financial Analyst,0.5,2,No,M104,Active,N/A,83479,Sydney,0-2
+E097,2015-04-07,2016-11-02,65,42,8,IT,Software Engineer,3.6,4,No,M102,Active,N/A,113326,Brisbane,2-5
+E098,2015-10-12,2017-11-01,62,65,12,Sales,Sales Executive,3.5,3,No,M101,Active,N/A,79504,Brisbane,2-5
+E099,2022-08-15,2026-02-13,61,3,3,IT,Data Engineer,3.0,3,No,M102,Active,N/A,127342,Melbourne,2-5
+E100,2017-12-05,2019-06-03,77,33,1,Sales,Sales Manager,2.5,4,Yes,M101,Active,N/A,120028,Sydney,2-5
+E101,2016-03-20,2020-01-20,67,44,10,Finance,Financial Analyst,0.5,3,No,M104,Active,N/A,87919,Sydney,0-2
+E102,2019-11-23,2023-10-14,72,14,12,Finance,Financial Analyst,2.2,3,No,M104,Active,N/A,90755,Sydney,2-5
+E103,2021-06-19,2023-01-09,56,5,13,Sales,Sales Executive,2.3,3,No,M101,Active,N/A,72430,Brisbane,2-5
+E104,2015-01-07,2018-06-04,99,68,6,HR,HR Analyst,1.4,5,No,M103,Active,N/A,85112,Melbourne,0-2
+E105,2019-01-31,2021-12-29,44,42,19,HR,HR Analyst,2.7,4,No,M103,Exited,Involuntary,85886,Brisbane,2-5
+E106,2018-07-09,2019-09-17,86,38,16,IT,Data Engineer,3.8,5,Yes,M102,Active,N/A,135805,Sydney,2-5
+E107,2018-06-20,2021-04-01,60,51,9,Finance,Financial Analyst,6.8,3,No,M104,Active,N/A,102241,Sydney,5-10
+E108,2021-03-20,2022-06-03,52,53,12,Finance,Accountant,3.3,5,Yes,M104,Exited,Voluntary,90778,Melbourne,2-5
+E109,2022-08-06,2024-01-24,79,72,9,IT,Data Engineer,3.5,5,No,M102,Exited,Voluntary,132318,Brisbane,2-5
+E110,2019-07-22,2023-02-13,93,0,9,IT,Data Engineer,2.9,3,No,M102,Active,N/A,124571,Brisbane,2-5
+E111,2018-03-21,2019-11-21,67,74,19,Finance,Financial Analyst,0.5,4,No,M104,Exited,Voluntary,86125,Melbourne,0-2
+E112,2022-05-05,2024-08-21,69,56,14,IT,Software Engineer,2.9,4,No,M102,Active,N/A,107929,Melbourne,2-5
+E113,2022-07-30,2024-04-07,72,60,5,Sales,Sales Manager,3.1,4,Yes,M101,Active,N/A,116092,Sydney,2-5
+E114,2022-05-22,2023-05-10,58,65,20,HR,HR Manager,7.9,2,No,M103,Exited,Involuntary,132363,Brisbane,5-10
+E115,2021-12-11,2024-04-25,45,30,9,IT,Software Engineer,2.6,2,No,M102,Exited,Involuntary,106152,Melbourne,2-5
+E116,2017-07-09,2019-02-16,49,3,1,Sales,Sales Executive,3.6,3,No,M101,Active,N/A,81125,Sydney,2-5
+E117,2017-09-29,2020-11-25,79,9,14,Finance,Accountant,2.9,3,No,M104,Active,N/A,91294,Sydney,2-5
+E118,2019-08-25,2023-09-02,76,24,12,Finance,Financial Analyst,0.7,2,No,M104,Exited,Voluntary,86380,Brisbane,0-2
+E119,2020-07-17,2023-04-11,55,18,20,HR,HR Analyst,5.3,2,No,M103,Active,N/A,94324,Brisbane,5-10
+E120,2022-09-17,2023-03-27,97,13,13,Sales,Sales Manager,4.5,4,Yes,M101,Active,N/A,125002,Brisbane,2-5
+E121,2017-06-15,2018-12-07,91,66,14,Finance,Financial Analyst,4.6,3,No,M104,Active,N/A,102856,Melbourne,2-5
+E122,2015-07-25,2019-03-07,55,15,14,Finance,Financial Analyst,1.2,3,No,M104,Active,N/A,86313,Melbourne,0-2
+E123,2016-06-30,2019-08-05,82,67,17,HR,HR Manager,5.8,4,No,M103,Active,N/A,129412,Melbourne,5-10
+E124,2021-09-04,2023-12-12,100,56,19,Finance,Accountant,0.5,3,No,M104,Active,N/A,84122,Brisbane,0-2
+E125,2023-01-25,2026-05-22,67,70,14,Sales,Sales Manager,4.2,4,No,M101,Active,N/A,123767,Brisbane,2-5
+E126,2016-10-13,2019-12-09,68,33,7,Finance,Accountant,7.4,3,No,M104,Active,N/A,102919,Sydney,5-10
+E127,2022-02-24,2024-03-12,89,66,15,Finance,Accountant,1.0,2,No,M104,Active,N/A,80920,Brisbane,0-2
+E128,2022-01-11,2023-11-11,57,56,2,IT,Software Engineer,1.9,4,No,M102,Active,N/A,105227,Melbourne,0-2
+E129,2023-01-01,2025-02-04,55,34,10,Sales,Sales Manager,3.2,5,Yes,M101,Active,N/A,119381,Brisbane,2-5
+E130,2018-08-02,2022-02-08,45,17,4,HR,HR Manager,2.0,5,No,M103,Active,N/A,114993,Sydney,0-2
+E131,2017-08-05,2020-03-26,84,19,6,IT,Software Engineer,0.5,2,No,M102,Exited,Voluntary,97736,Melbourne,0-2
+E132,2015-09-21,2018-07-16,66,42,17,HR,HR Manager,3.1,3,No,M103,Active,N/A,114677,Melbourne,2-5
+E133,2020-03-23,2023-01-18,43,26,13,HR,HR Manager,0.9,5,No,M103,Active,N/A,115722,Melbourne,0-2
+E134,2019-05-15,2023-02-19,100,2,18,Finance,Financial Analyst,3.9,3,No,M104,Active,N/A,101603,Sydney,2-5
+E135,2019-04-08,2022-06-07,40,45,9,Finance,Financial Analyst,1.2,5,No,M104,Active,N/A,92512,Brisbane,0-2
+E136,2019-05-17,2022-03-20,74,69,19,Finance,Accountant,6.1,5,Yes,M104,Active,N/A,106049,Brisbane,5-10
+E137,2017-06-22,2020-09-13,54,34,13,Finance,Financial Analyst,1.4,5,No,M104,Active,N/A,91692,Sydney,0-2
+E138,2020-06-12,2021-02-06,64,43,12,Sales,Sales Executive,2.4,4,Yes,M101,Active,N/A,77413,Melbourne,2-5
+E139,2023-02-14,2024-07-16,93,59,4,Finance,Accountant,4.6,4,Yes,M104,Active,N/A,94329,Melbourne,2-5
+E140,2021-12-23,2025-06-18,41,50,18,Finance,Financial Analyst,0.5,3,No,M104,Active,N/A,83815,Sydney,0-2
+E141,2021-04-30,2021-12-21,45,54,4,Finance,Financial Analyst,3.5,4,Yes,M104,Active,N/A,102364,Melbourne,2-5
+E142,2020-03-06,2021-09-09,43,33,12,Sales,Sales Executive,5.6,5,Yes,M101,Active,N/A,83280,Sydney,5-10
+E143,2018-09-02,2020-05-07,69,41,10,Sales,Sales Executive,0.5,4,No,M101,Active,N/A,64974,Melbourne,0-2
+E144,2019-04-02,2021-04-20,88,53,8,HR,HR Analyst,3.4,3,No,M103,Active,N/A,83585,Melbourne,2-5
+E145,2015-12-02,2019-01-18,41,69,1,Finance,Accountant,3.5,3,No,M104,Exited,Voluntary,90445,Sydney,2-5
+E146,2018-12-04,2020-09-03,81,8,20,IT,Data Analyst,4.6,3,No,M102,Active,N/A,98983,Brisbane,2-5
+E147,2015-06-14,2016-02-12,100,31,6,Sales,Sales Manager,0.5,5,No,M101,Active,N/A,109088,Melbourne,0-2
+E148,2015-03-25,2019-03-16,49,30,4,Finance,Financial Analyst,0.5,5,No,M104,Active,N/A,93451,Brisbane,0-2
+E149,2020-04-23,2021-06-11,76,27,14,HR,HR Manager,4.0,5,No,M103,Exited,Voluntary,120886,Sydney,2-5
+E150,2022-11-05,2024-10-09,89,47,5,HR,HR Manager,3.6,5,No,M103,Active,N/A,122284,Sydney,2-5
+E151,2021-10-17,2025-09-09,87,14,5,Sales,Sales Executive,3.5,5,Yes,M101,Active,N/A,80189,Melbourne,2-5
+E152,2018-06-28,2019-08-03,77,3,9,HR,HR Analyst,3.7,4,Yes,M103,Active,N/A,86340,Brisbane,2-5
+E153,2021-06-16,2024-01-20,65,25,2,Sales,Sales Executive,1.6,4,No,M101,Active,N/A,77295,Sydney,0-2
+E154,2021-08-22,2025-08-25,55,13,9,IT,Data Analyst,3.5,5,No,M102,Active,N/A,98789,Melbourne,2-5
+E155,2022-09-03,2026-07-13,91,15,18,HR,HR Manager,3.6,5,No,M103,Active,N/A,123694,Sydney,2-5
+E156,2015-06-18,2017-11-25,74,54,11,HR,HR Analyst,1.6,3,No,M103,Exited,Voluntary,79496,Brisbane,0-2
+E157,2015-10-10,2019-02-07,81,43,0,Finance,Financial Analyst,6.7,2,No,M104,Exited,Involuntary,101124,Sydney,5-10
+E158,2019-09-17,2022-12-13,46,55,11,HR,HR Manager,3.9,4,Yes,M103,Active,N/A,116475,Brisbane,2-5
+E159,2022-02-16,2025-03-13,85,19,13,IT,Software Engineer,0.6,2,No,M102,Active,N/A,104998,Sydney,0-2
+E160,2016-12-22,2020-05-23,81,34,19,IT,Data Engineer,4.3,2,No,M102,Active,N/A,126851,Brisbane,2-5
+E161,2021-01-13,2024-03-28,69,55,18,Finance,Accountant,1.1,3,No,M104,Active,N/A,84286,Sydney,0-2
+E162,2018-01-04,2020-04-23,94,31,2,Sales,Sales Executive,4.6,4,Yes,M101,Active,N/A,82878,Brisbane,2-5
+E163,2018-02-16,2021-02-23,55,59,18,Finance,Accountant,5.3,5,Yes,M104,Active,N/A,102586,Sydney,5-10
+E164,2021-11-04,2024-06-17,61,3,15,Sales,Sales Manager,1.4,4,No,M101,Active,N/A,111068,Sydney,0-2
+E165,2018-08-24,2020-02-27,71,27,11,Sales,Sales Manager,4.9,4,Yes,M101,Active,N/A,124223,Sydney,2-5
+E166,2017-11-24,2020-04-19,57,76,8,IT,Data Analyst,3.8,5,Yes,M102,Exited,Involuntary,106183,Melbourne,2-5
+E167,2021-03-26,2021-10-12,73,24,2,Sales,Sales Manager,4.6,4,No,M101,Active,N/A,117924,Brisbane,2-5
+E168,2017-09-15,2020-06-23,71,71,7,IT,Data Engineer,6.8,3,No,M102,Active,N/A,136783,Melbourne,5-10
+E169,2022-09-29,2025-11-27,81,62,14,Sales,Sales Manager,2.5,5,No,M101,Exited,Involuntary,115358,Melbourne,2-5
+E170,2015-03-12,2016-03-16,58,28,12,Sales,Sales Executive,1.5,3,No,M101,Active,N/A,69398,Brisbane,0-2
+E171,2022-10-04,2024-08-12,59,74,11,HR,HR Analyst,1.2,3,No,M103,Exited,Voluntary,83219,Melbourne,0-2
+E172,2020-04-22,2023-11-26,73,44,13,Sales,Sales Manager,1.4,4,No,M101,Active,N/A,116926,Melbourne,0-2
+E173,2021-03-04,2023-07-09,62,58,8,Finance,Accountant,2.8,5,No,M104,Active,N/A,96943,Sydney,2-5
+E174,2018-06-09,2020-05-03,54,15,6,Finance,Accountant,3.7,2,No,M104,Exited,Voluntary,86868,Sydney,2-5
+E175,2018-07-16,2019-09-13,87,68,5,Finance,Accountant,3.6,5,No,M104,Exited,Involuntary,100390,Brisbane,2-5
+E176,2017-02-23,2018-11-08,87,61,8,HR,HR Manager,4.7,5,Yes,M103,Active,N/A,129019,Sydney,2-5
+E177,2023-02-15,2026-12-03,88,67,19,Sales,Sales Executive,3.0,5,Yes,M101,Active,N/A,77522,Sydney,2-5
+E178,2018-03-05,2019-03-25,93,24,9,Finance,Accountant,5.9,3,No,M104,Active,N/A,100232,Sydney,5-10
+E179,2017-07-20,2020-01-25,51,38,0,Sales,Sales Manager,2.5,4,Yes,M101,Active,N/A,113000,Brisbane,2-5
+E180,2022-12-10,2026-06-05,48,35,1,Finance,Accountant,8.4,2,No,M104,Exited,Voluntary,105305,Melbourne,5-10
+E181,2015-08-12,2019-03-17,58,16,20,Sales,Sales Manager,4.3,5,Yes,M101,Active,N/A,124829,Brisbane,2-5
+E182,2020-07-03,2021-07-28,95,1,18,Sales,Sales Manager,1.3,5,No,M101,Active,N/A,118368,Brisbane,0-2
+E183,2018-03-10,2021-04-24,70,56,10,IT,Data Analyst,0.9,4,No,M102,Active,N/A,87473,Sydney,0-2
+E184,2017-01-25,2017-11-06,56,61,3,HR,HR Analyst,4.0,4,Yes,M103,Active,N/A,94190,Brisbane,2-5
+E185,2015-09-25,2018-06-21,71,9,18,Sales,Sales Manager,2.6,3,No,M101,Active,N/A,113862,Sydney,2-5
+E186,2022-01-22,2022-11-07,49,19,18,HR,HR Analyst,4.4,3,No,M103,Active,N/A,90766,Melbourne,2-5
+E187,2018-05-29,2019-05-18,55,15,17,IT,Data Engineer,3.9,4,No,M102,Active,N/A,128224,Sydney,2-5
+E188,2019-09-01,2023-07-23,78,79,7,Finance,Financial Analyst,2.9,3,No,M104,Active,N/A,95014,Brisbane,2-5
+E189,2020-11-10,2023-06-27,68,56,9,Sales,Sales Executive,1.3,3,No,M101,Active,N/A,65715,Brisbane,0-2
+E190,2021-08-07,2024-06-30,59,72,19,Sales,Sales Manager,0.5,4,No,M101,Active,N/A,114446,Sydney,0-2
+E191,2015-09-04,2019-08-02,87,12,6,Finance,Financial Analyst,2.1,3,No,M104,Active,N/A,92955,Sydney,2-5
+E192,2022-01-06,2023-09-10,56,10,5,Sales,Sales Manager,4.7,5,Yes,M101,Active,N/A,124153,Melbourne,2-5
+E193,2017-09-09,2019-02-26,75,9,5,IT,Software Engineer,3.4,5,No,M102,Exited,Voluntary,112448,Sydney,2-5
+E194,2015-01-11,2017-10-23,68,76,15,HR,HR Manager,0.5,3,No,M103,Active,N/A,109555,Melbourne,0-2
+E195,2018-04-07,2018-12-09,54,36,9,IT,Software Engineer,3.3,4,No,M102,Active,N/A,113702,Melbourne,2-5
+E196,2022-11-19,2025-12-02,44,29,8,Finance,Accountant,3.8,3,No,M104,Active,N/A,88675,Sydney,2-5
+E197,2022-01-04,2025-10-22,82,25,13,Finance,Financial Analyst,1.2,4,No,M104,Active,N/A,88487,Sydney,0-2
+E198,2016-04-15,2019-11-01,54,19,8,Sales,Sales Manager,3.3,3,No,M101,Active,N/A,118438,Brisbane,2-5
+E199,2016-08-05,2017-06-27,43,21,9,HR,HR Analyst,3.1,3,No,M103,Active,N/A,87438,Brisbane,2-5
+E200,2021-09-03,2025-05-10,98,36,14,Finance,Accountant,0.7,3,No,M104,Active,N/A,83662,Melbourne,0-2
+E201,2016-05-24,2019-07-07,84,38,12,HR,HR Analyst,3.7,2,No,M103,Active,N/A,88793,Brisbane,2-5
+E202,2018-01-20,2021-05-08,74,63,14,IT,Software Engineer,4.1,3,No,M102,Active,N/A,110719,Melbourne,2-5
+E203,2015-11-26,2019-09-30,42,55,10,Sales,Sales Executive,5.2,4,No,M101,Active,N/A,79834,Melbourne,5-10
+E204,2021-10-08,2023-08-31,41,11,7,Finance,Financial Analyst,5.1,4,Yes,M104,Active,N/A,107548,Brisbane,5-10
+E205,2022-07-24,2026-04-12,77,2,8,HR,HR Manager,0.5,3,No,M103,Exited,Voluntary,107461,Sydney,0-2
+E206,2021-06-18,2022-03-07,88,22,15,Sales,Sales Manager,1.1,4,No,M101,Active,N/A,113704,Melbourne,0-2
+E207,2020-10-26,2023-10-16,98,35,5,Sales,Sales Manager,4.0,5,No,M101,Active,N/A,118479,Brisbane,2-5
+E208,2021-07-25,2024-07-01,80,62,2,Finance,Financial Analyst,4.0,4,Yes,M104,Active,N/A,95672,Sydney,2-5
+E209,2020-04-09,2022-09-18,66,42,10,IT,Software Engineer,4.0,4,Yes,M102,Active,N/A,117381,Melbourne,2-5
+E210,2022-07-07,2023-08-05,94,20,10,HR,HR Analyst,10.0,4,No,M103,Active,N/A,110172,Sydney,5-10
+E211,2019-08-14,2022-11-20,58,51,17,IT,Software Engineer,4.1,3,No,M102,Active,N/A,114997,Sydney,2-5
+E212,2015-05-31,2018-06-15,45,40,8,Sales,Sales Manager,5.3,3,No,M101,Exited,Voluntary,121555,Sydney,5-10
+E213,2018-08-17,2019-10-08,89,51,16,IT,Software Engineer,4.9,2,No,M102,Active,N/A,114431,Sydney,2-5
+E214,2015-01-05,2018-07-19,69,52,1,Finance,Accountant,4.3,4,Yes,M104,Active,N/A,97071,Brisbane,2-5
+E215,2017-02-07,2020-07-02,63,79,15,HR,HR Analyst,2.4,4,Yes,M103,Active,N/A,88824,Melbourne,2-5
+E216,2022-01-05,2024-12-25,88,6,6,Finance,Financial Analyst,4.5,2,No,M104,Exited,Voluntary,98098,Sydney,2-5
+E217,2017-12-29,2021-07-25,48,36,14,IT,Data Analyst,1.5,5,No,M102,Active,N/A,94346,Melbourne,0-2
+E218,2022-10-31,2026-01-15,47,3,20,Sales,Sales Manager,2.5,5,Yes,M101,Active,N/A,115027,Melbourne,2-5
+E219,2021-10-29,2023-08-30,85,20,9,IT,Data Engineer,2.0,4,No,M102,Active,N/A,121712,Brisbane,0-2
+E220,2021-03-06,2021-09-30,75,52,2,Finance,Accountant,3.2,3,No,M104,Active,N/A,89491,Sydney,2-5
+E221,2017-07-09,2018-08-25,69,15,20,HR,HR Manager,7.6,3,No,M103,Active,N/A,131484,Melbourne,5-10
+E222,2016-09-22,2020-01-05,99,37,16,HR,HR Manager,0.5,3,No,M103,Active,N/A,108756,Brisbane,0-2
+E223,2022-11-29,2024-12-07,66,61,15,Finance,Accountant,4.4,5,Yes,M104,Active,N/A,97296,Melbourne,2-5
+E224,2017-09-25,2020-10-14,75,18,12,Finance,Financial Analyst,0.5,4,No,M104,Active,N/A,92952,Melbourne,0-2
+E225,2017-02-19,2020-12-27,72,17,2,HR,HR Analyst,2.1,4,No,M103,Active,N/A,81714,Sydney,2-5
+E226,2018-02-05,2020-11-30,61,64,8,Sales,Sales Executive,5.2,5,Yes,M101,Active,N/A,87397,Melbourne,5-10
+E227,2015-01-11,2017-02-08,86,38,18,Finance,Financial Analyst,3.1,3,No,M104,Active,N/A,96442,Melbourne,2-5
+E228,2021-07-03,2024-09-27,95,19,14,Sales,Sales Manager,0.8,5,No,M101,Active,N/A,112893,Melbourne,0-2
+E229,2021-01-15,2024-03-31,62,42,17,IT,Data Analyst,1.6,3,No,M102,Active,N/A,88073,Brisbane,0-2
+E230,2021-02-03,2023-09-13,69,41,6,Finance,Financial Analyst,4.4,4,Yes,M104,Exited,Involuntary,98649,Brisbane,2-5
+E231,2022-10-27,2024-08-26,76,49,7,Finance,Accountant,1.5,4,No,M104,Active,N/A,84496,Melbourne,0-2
+E232,2019-08-10,2020-05-05,60,60,12,IT,Software Engineer,3.4,4,Yes,M102,Exited,Voluntary,116389,Brisbane,2-5
+E233,2019-05-01,2020-09-03,71,4,4,Sales,Sales Executive,3.1,5,No,M101,Exited,Voluntary,83649,Sydney,2-5
+E234,2020-08-19,2024-06-07,61,12,14,IT,Data Engineer,1.7,4,No,M102,Active,N/A,124008,Melbourne,0-2
+E235,2016-02-13,2019-07-24,98,58,0,Sales,Sales Manager,7.3,5,No,M101,Exited,Voluntary,127166,Sydney,5-10
+E236,2023-02-07,2024-05-27,66,19,2,Sales,Sales Manager,4.3,4,Yes,M101,Active,N/A,125433,Brisbane,2-5
+E237,2020-04-07,2022-03-30,61,79,12,HR,HR Analyst,0.5,2,No,M103,Exited,Voluntary,73368,Brisbane,0-2
+E238,2022-04-15,2023-03-25,94,42,17,Finance,Financial Analyst,3.4,4,Yes,M104,Exited,Voluntary,100698,Melbourne,2-5
+E239,2019-04-06,2021-07-12,80,62,17,HR,HR Analyst,1.7,2,No,M103,Exited,Involuntary,79180,Brisbane,0-2
+E240,2015-05-28,2019-05-11,44,30,20,Finance,Financial Analyst,4.7,3,No,M104,Active,N/A,98231,Sydney,2-5
+E241,2022-09-04,2024-10-11,54,11,13,HR,HR Analyst,1.4,5,No,M103,Active,N/A,81239,Sydney,0-2
+E242,2016-02-08,2020-02-24,85,12,14,Finance,Financial Analyst,2.8,4,Yes,M104,Active,N/A,94460,Sydney,2-5
+E243,2016-11-12,2019-01-14,97,3,1,Finance,Financial Analyst,4.0,5,Yes,M104,Active,N/A,103955,Melbourne,2-5
+E244,2018-08-21,2019-06-11,58,45,11,Finance,Accountant,4.7,4,No,M104,Exited,Voluntary,97121,Sydney,2-5
+E245,2019-10-31,2021-02-20,55,67,13,Finance,Accountant,0.6,4,No,M104,Active,N/A,80493,Brisbane,0-2
+E246,2021-05-07,2022-11-06,50,22,2,HR,HR Manager,2.3,3,No,M103,Active,N/A,108839,Melbourne,2-5
+E247,2021-11-01,2024-06-21,79,30,15,Finance,Financial Analyst,2.1,4,Yes,M104,Active,N/A,89810,Melbourne,2-5
+E248,2021-07-16,2022-11-01,54,59,20,Finance,Accountant,1.7,3,No,M104,Active,N/A,87101,Sydney,0-2
+E249,2017-11-06,2020-12-01,56,1,14,Finance,Accountant,6.5,4,Yes,M104,Active,N/A,103595,Sydney,5-10
+E250,2018-03-24,2021-10-13,50,9,14,Sales,Sales Executive,3.8,4,No,M101,Active,N/A,78489,Melbourne,2-5
+E251,2018-11-16,2022-08-30,59,54,8,Sales,Sales Executive,0.5,4,No,M101,Active,N/A,73702,Melbourne,0-2
+E252,2020-02-15,2022-04-23,52,49,15,HR,HR Manager,4.8,4,No,M103,Active,N/A,125447,Melbourne,2-5
+E253,2016-03-12,2018-01-06,64,73,11,Sales,Sales Executive,7.2,5,Yes,M101,Active,N/A,93892,Melbourne,5-10
+E254,2021-06-12,2023-08-06,84,37,0,HR,HR Manager,5.1,4,Yes,M103,Active,N/A,123214,Melbourne,5-10
+E255,2022-05-20,2025-02-03,57,1,18,IT,Software Engineer,0.5,4,No,M102,Active,N/A,102792,Melbourne,0-2
+E256,2022-09-10,2023-06-17,98,77,15,IT,Software Engineer,2.0,2,No,M102,Exited,Voluntary,109038,Melbourne,0-2
+E257,2018-03-18,2019-12-29,78,45,7,Sales,Sales Executive,5.5,4,Yes,M101,Active,N/A,88112,Sydney,5-10
+E258,2022-02-20,2023-09-12,79,32,4,Finance,Accountant,1.6,3,No,M104,Active,N/A,82015,Sydney,0-2
+E259,2022-01-17,2023-01-30,97,80,20,Finance,Financial Analyst,3.9,3,No,M104,Active,N/A,101732,Brisbane,2-5
+E260,2015-06-11,2017-08-31,90,56,1,IT,Data Analyst,4.5,3,No,M102,Active,N/A,95407,Melbourne,2-5
+E261,2021-07-01,2024-01-14,86,16,2,IT,Software Engineer,1.1,2,No,M102,Exited,Voluntary,102969,Brisbane,0-2
+E262,2018-04-23,2020-08-19,87,53,5,HR,HR Analyst,2.9,3,No,M103,Active,N/A,88724,Sydney,2-5
+E263,2017-04-02,2018-06-26,90,69,11,IT,Data Engineer,0.5,3,No,M102,Active,N/A,120734,Brisbane,0-2
+E264,2020-12-14,2024-04-04,98,34,5,IT,Data Engineer,1.0,5,No,M102,Active,N/A,127914,Sydney,0-2
+E265,2017-11-18,2021-01-27,91,37,10,Sales,Sales Executive,2.5,3,No,M101,Active,N/A,77949,Sydney,2-5
+E266,2016-04-16,2019-05-30,44,18,7,IT,Data Engineer,0.5,3,No,M102,Active,N/A,120659,Brisbane,0-2
+E267,2022-08-02,2025-04-21,94,71,11,HR,HR Manager,6.3,3,No,M103,Active,N/A,126553,Sydney,5-10
+E268,2016-01-05,2018-09-19,40,33,17,Finance,Accountant,0.5,4,No,M104,Active,N/A,86309,Sydney,0-2
+E269,2016-05-21,2019-06-06,63,33,18,Finance,Accountant,2.1,3,No,M104,Active,N/A,87531,Brisbane,2-5
+E270,2019-04-10,2023-05-06,100,47,3,HR,HR Manager,3.3,3,No,M103,Active,N/A,120102,Melbourne,2-5
+E271,2022-07-27,2024-05-15,70,3,19,HR,HR Analyst,5.9,3,No,M103,Active,N/A,92761,Melbourne,5-10
+E272,2021-04-18,2023-08-17,98,78,7,Sales,Sales Executive,0.5,4,No,M101,Active,N/A,71350,Melbourne,0-2
+E273,2022-04-06,2023-02-09,80,59,9,IT,Software Engineer,5.3,5,Yes,M102,Active,N/A,118510,Sydney,5-10
+E274,2022-04-13,2025-01-23,47,17,1,Finance,Financial Analyst,3.0,5,Yes,M104,Exited,Voluntary,101491,Melbourne,2-5
+E275,2015-06-02,2017-08-13,71,14,3,IT,Data Engineer,1.0,3,No,M102,Exited,Voluntary,121710,Sydney,0-2
+E276,2017-08-19,2021-02-19,48,49,14,Sales,Sales Executive,3.9,4,Yes,M101,Active,N/A,81306,Sydney,2-5
+E277,2019-02-28,2022-09-06,66,75,4,Sales,Sales Manager,3.4,3,No,M101,Active,N/A,117139,Brisbane,2-5
+E278,2019-08-27,2020-09-12,93,62,19,HR,HR Analyst,1.8,3,No,M103,Active,N/A,85408,Sydney,0-2
+E279,2019-07-30,2021-08-20,42,47,6,Sales,Sales Executive,3.1,5,No,M101,Active,N/A,79855,Brisbane,2-5
+E280,2019-12-22,2022-12-16,100,30,11,HR,HR Analyst,2.2,3,No,M103,Active,N/A,85793,Melbourne,2-5
+E281,2016-02-11,2018-08-31,74,45,1,Sales,Sales Executive,3.2,3,No,M101,Active,N/A,78361,Brisbane,2-5
+E282,2019-06-19,2021-07-03,52,15,14,Finance,Accountant,4.3,4,Yes,M104,Active,N/A,96118,Melbourne,2-5
+E283,2016-01-11,2017-09-16,81,76,0,Finance,Financial Analyst,6.2,4,Yes,M104,Active,N/A,109625,Brisbane,5-10
+E284,2015-07-27,2017-12-06,55,16,18,HR,HR Manager,0.5,5,No,M103,Active,N/A,108295,Sydney,0-2
+E285,2017-04-20,2018-03-06,93,70,6,HR,HR Analyst,7.3,4,No,M103,Active,N/A,104377,Brisbane,5-10
+E286,2021-07-29,2023-04-12,92,29,10,IT,Data Engineer,0.5,2,No,M102,Exited,Voluntary,116729,Melbourne,0-2
+E287,2016-08-27,2020-06-27,40,35,4,IT,Data Analyst,2.7,4,Yes,M102,Active,N/A,98325,Sydney,2-5
+E288,2016-06-16,2019-12-24,56,22,3,Finance,Accountant,4.2,3,No,M104,Active,N/A,96821,Brisbane,2-5
+E289,2022-05-31,2023-01-18,48,1,11,Finance,Accountant,3.6,4,Yes,M104,Active,N/A,96637,Brisbane,2-5
+E290,2017-09-01,2021-06-17,60,2,5,Finance,Financial Analyst,1.8,5,No,M104,Active,N/A,99134,Sydney,0-2
+E291,2017-12-22,2018-10-05,48,53,16,HR,HR Manager,2.6,4,No,M103,Active,N/A,119943,Sydney,2-5
+E292,2016-04-10,2017-02-14,70,57,11,IT,Software Engineer,2.0,4,No,M102,Active,N/A,112011,Sydney,0-2
+E293,2020-10-03,2024-07-29,46,57,16,Finance,Financial Analyst,1.8,4,No,M104,Active,N/A,92880,Sydney,0-2
+E294,2017-06-26,2021-06-04,42,66,9,Sales,Sales Manager,4.7,5,No,M101,Exited,Voluntary,121499,Sydney,2-5
+E295,2020-02-20,2024-03-27,41,7,15,Sales,Sales Manager,3.7,5,No,M101,Active,N/A,120301,Brisbane,2-5
+E296,2019-07-04,2022-05-22,83,13,15,Finance,Accountant,1.6,3,No,M104,Active,N/A,90008,Brisbane,0-2
+E297,2022-12-27,2025-12-19,44,10,10,HR,HR Analyst,4.8,3,No,M103,Active,N/A,89320,Melbourne,2-5
+E298,2021-10-27,2023-02-22,44,16,8,Sales,Sales Executive,3.6,5,No,M101,Active,N/A,83539,Melbourne,2-5
+E299,2022-01-01,2026-01-16,77,70,10,IT,Data Analyst,4.6,5,Yes,M102,Active,N/A,106593,Sydney,2-5
+E300,2019-04-10,2023-02-11,73,37,14,IT,Software Engineer,4.3,3,No,M102,Active,N/A,110365,Brisbane,2-5
